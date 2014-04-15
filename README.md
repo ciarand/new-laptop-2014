@@ -5,7 +5,7 @@ Notes on a new (14"ish) laptop for development purposes
 
 | Feature           | Razer Blade 14"         | MacBook Pro 13"            | MacBook Pro 15"            |
 |-------------------|-------------------------|----------------------------|----------------------------|
-| CPU               | **i7 4 core**           | i7 2 core 2.8GHz/3.3GHz    | **i7 4 core**              |
+| CPU               | **i7 4 core**           | i7 2 core                  | **i7 4 core**              |
 | CPU Frequency     | 2.2GHz/3.2GHz           | 2.8GHz/3.3GHz              | **2.6GHz/3.8GHz**          |
 | Hard drive        | 512gb (mSATA)           | **1tb (PCI)**              | **1tb (PCI)**              |
 | Memory            | 8gb DDR3 1600MHz        | **16gb DDR 1600MHz**       | **16gb DDR 1600MHz**       |
