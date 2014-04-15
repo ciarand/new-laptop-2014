@@ -18,7 +18,7 @@ Notes on a new (14"ish) laptop for development purposes
 | Battery life      | 6 hours (previous gen)  | **9 hours**                | **8 hours**                |
 | SD card slot      | No                      | **Yes**                    | **Yes**                    |
 | Wireless          | 802.11a/b/g/n/ac        | 802.11a/b/g/n/ac           | 802.11a/b/g/n/ac           |
-| Upgradable?       | **SSD, maybe RAM**      | No                         | No                         |
+| Upgradable?       | **SSD, wireless chip**  | No                         | No                         |
 | Keyboard font     | Weird                   | Boring                     | Boring                     |
 | Width             | 13.6"                   | **12.35"**                 | 14.13"                     |
 | Depth             | 9.3"                    | **8.62"**                  | 9.73"                      |
